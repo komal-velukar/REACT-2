@@ -1,0 +1,17 @@
+#myLogin {
+    border: 2px solid black;
+    width: 40%;
+    margin: auto;
+    height: 200px;
+}
+.submit {
+    width: 50%;
+    height: 30px;
+    background-color: blue;
+    color:white;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: none;
+    font-size :20px;
+    font-weight: bolder
+}
